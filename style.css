@@ -160,3 +160,43 @@ ul li {
     transform: rotatey(360deg);
     transition: 10s;
   }
+     
+  }
+  .box {
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid #55d60e;
+    border-radius: 10px;
+    overflow: hidden;
+    
+    
+    
+  }
+  ul li {
+    list-style:none;
+  }
+   .box:hover {
+    border: none;
+    box-shadow: 0px 3px 10pX #060606;
+  }
+  .box:hover .box-img img {
+    width: 110px;
+    color: black;
+  }
+  .box:hover .box-content h4 {
+    color: #000000  ;
+    text-shadow: 0px 3px 10px #060606;
+  }
+  .box-image {
+    height: 250px;
+    overflow: hidden;
+  }
+  
+  .box-content {
+    padding: 25px;
+  }
+  
+  .box-content {
+    color: #000000;
+  }
