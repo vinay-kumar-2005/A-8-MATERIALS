@@ -162,7 +162,7 @@ ul li {
   }
      
   }
-  .box {
+  .box-1 {
     width: 98%;
     margin-left: 10px;
     margin-right: 10px;
@@ -176,27 +176,27 @@ ul li {
   ul li {
     list-style:none;
   }
-   .box:hover {
+   .box-1:hover {
     border: none;
     box-shadow: 0px 3px 10pX #060606;
   }
-  .box:hover .box-img img {
+  .box-1:hover .box-1-img img {
     width: 110px;
     color: black;
   }
-  .box:hover .box-content h4 {
+  .box-1:hover .box-1-content h4 {
     color: #000000  ;
     text-shadow: 0px 3px 10px #060606;
   }
-  .box-image {
+  .box-1-image {
     height: 250px;
     overflow: hidden;
   }
   
-  .box-content {
+  .box-1-content {
     padding: 25px;
   }
   
-  .box-content {
+  .box-1-content {
     color: #000000;
   }
