@@ -65,66 +65,27 @@
 .nav-item .nav-link  {
   color: #fff;
 }
-  .box {
-  width: 100%;
   
-  border: 1px solid #000000;
-  border-radius: 10px;
-  overflow: hidden;
-  border: none;
+.BOX-STYLE{
+  background-color: #150868;
+  color: #ffffff;
+  padding: 180PX;
+  width: 250PX;
+  height: 100PX;
+  padding-top: 50px;
+  margin-top: 250px;
+  padding-left: 20px;
+  padding-right: 20PX;
   
+ margin: 50PX;
+ margin-right: 200px;
+ transition: 1S;
 }
-ul li {
-  list-style:none;
-}
- .box-:hover:hover {
-  border: none;
-  box-shadow: 0px 3px 10pX #060606;
-}
-.box:hover .box-img img {
-  width: 110px;
-  color: black;
-}
-.box:hover .box-content h4 {
-  color: #000000  ;
-  text-shadow: 0px 3px 10px #060606;
-}
-.box-image {
-  height: 250px;
-  overflow: hidden;
-}
-.box-content {
-  color: #000000;
-}  .box {
-  width: 100%;
-  
-  border: 1px solid #000000;
-  border-radius: 10px;
-  overflow: hidden;
-  border: none;
-  
-}
-ul li {
-  list-style:none;
-}
- .box-:hover:hover {
-  border: none;
-  box-shadow: 0px 3px 10pX #060606;
-}
-.box:hover .box-img img {
-  width: 110px;
-  color: black;
-}
-.box:hover .box-content h4 {
-  color: #000000  ;
-  text-shadow: 0px 3px 10px #060606;
-}
-.box-image {
-  height: 250px;
-  overflow: hidden;
-}
-.box-content {
-  color: #000000;
-}
+
+  .BOX-STYLE:hover{
+    transform: rotatey(360deg);
+    transition: 10s;
+  }
+
  
   
