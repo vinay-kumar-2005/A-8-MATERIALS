@@ -3,6 +3,11 @@
     padding: 0;
        
   }
+.navbar {
+  background-color: rgb(35, 6, 63);
+
+ 
+}
   .box {
     width: 95%;
     margin-left: 10px;
@@ -43,12 +48,23 @@
   }
   .bg-2{
     color: rgb(255, 255, 255);
-  }
-  .navbar {
-   background-color: rgb(19, 5, 57);
-    color: rgb(19, 5, 57);
-   
-  }
-  
+ 
+}
+
+.navbar {
+  background-color: rgb(25, 7, 60);
+  color: #ffffff;
+  color: #ffffff;
+
+
+}
+.navbar-nav{
+  color: #ffffff;
+
+}
+.nav-item .nav-link  {
+  color: #fff;
+}
+
  
   
