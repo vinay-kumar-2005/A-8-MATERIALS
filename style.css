@@ -65,6 +65,66 @@
 .nav-item .nav-link  {
   color: #fff;
 }
-
+  .box {
+  width: 100%;
+  
+  border: 1px solid #000000;
+  border-radius: 10px;
+  overflow: hidden;
+  border: none;
+  
+}
+ul li {
+  list-style:none;
+}
+ .box-:hover:hover {
+  border: none;
+  box-shadow: 0px 3px 10pX #060606;
+}
+.box:hover .box-img img {
+  width: 110px;
+  color: black;
+}
+.box:hover .box-content h4 {
+  color: #000000  ;
+  text-shadow: 0px 3px 10px #060606;
+}
+.box-image {
+  height: 250px;
+  overflow: hidden;
+}
+.box-content {
+  color: #000000;
+}  .box {
+  width: 100%;
+  
+  border: 1px solid #000000;
+  border-radius: 10px;
+  overflow: hidden;
+  border: none;
+  
+}
+ul li {
+  list-style:none;
+}
+ .box-:hover:hover {
+  border: none;
+  box-shadow: 0px 3px 10pX #060606;
+}
+.box:hover .box-img img {
+  width: 110px;
+  color: black;
+}
+.box:hover .box-content h4 {
+  color: #000000  ;
+  text-shadow: 0px 3px 10px #060606;
+}
+.box-image {
+  height: 250px;
+  overflow: hidden;
+}
+.box-content {
+  color: #000000;
+}
  
   
