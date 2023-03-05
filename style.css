@@ -15,11 +15,10 @@
     border: 5px solid #55d60e;
     border-radius: 10px;
     overflow: hidden;
-      height:50px;
-    
-    
     
   }
+.box{
+    height:50px}
   ul li {
     list-style:none;
   }
