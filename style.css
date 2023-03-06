@@ -252,6 +252,17 @@ ul li {
 .box{
      border: 1px solid #55d60e;
 }
+ .box {
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid #55d60e;
+    border-radius: 10px;
+    overflow: hidden;
+                                                                         
+    
+    
+  }
 
  
   
