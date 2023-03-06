@@ -249,6 +249,9 @@ ul li {
     transform: rotatey(360deg);
     transition: 10s;
   }
+.box{
+     border: 1px solid #55d60e;
+}
 
  
   
